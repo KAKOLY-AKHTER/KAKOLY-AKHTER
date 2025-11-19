@@ -2,15 +2,15 @@
 
 ### 💻 Frontend Developer | UI/UX Perfectionist | Bilingual Tech Writer
 
-## 🔭 Currently Working On
+#### 🔭 Currently Working On
 Building zap-shift-client-payment — a secure client-side payment module using React, Firebase, and MongoDB
 🌱 Currently Learning
 TypeScript · Next.js · Redux
-## 💬 Ask Me About
+#### 💬 Ask Me About
 HTML · CSS · JavaScript · React · Node.js · MongoDB
-## 📫 Reach Me At
+#### 📫 Reach Me At
 📧 kakolyakhter48@gmail.com
-## ⚡ Fun Fact
+#### ⚡ Fun Fact
 I’m a coffee addict who turns caffeine into clean code ☕✨
 
   
