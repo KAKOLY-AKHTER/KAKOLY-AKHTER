@@ -1,4 +1,4 @@
-## Hi , I'm Kakoly Akhte
+# Hi , I'm Kakoly Akhter
 ### 💻 Frontend Developer | UI/UX Perfectionist | Bilingual Tech Writer
 
 - 🔭 Currently Working On: Building zap-shift-client-payment — a secure client-side payment module using React, Firebase, and MongoDB
