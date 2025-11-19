@@ -5,7 +5,7 @@
 - 🌱 Currently Learning: TypeScript · Next.js · Redux
 - 💬 Ask Me About: HTML · CSS · JavaScript · React · Node.js · MongoDB
 - 📫 Reach Me At:kakolyakhter48@gmail.com
-- ⚡ Fun Fact : I’m a coffee addict who turns caffeine into clean code ☕✨
+- ⚡  Fun Fact : I’m a coffee addict who turns caffeine into clean code ☕✨
 
 ## 💫 About Me:
 I’m a frontend developer skilled in HTML, CSS, JavaScript (ES6), React, and DOM manipulation. I also work with Firebase, MongoDB, and authentication systems to build secure, dynamic web applications. Focused on writing clear documentation, clean code, and collaborative debugging.
