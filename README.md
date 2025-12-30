@@ -31,6 +31,8 @@ I’m a frontend developer skilled in HTML, CSS, JavaScript (ES6), React, and DO
 ![](https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KAKOLY-AKHTER&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
