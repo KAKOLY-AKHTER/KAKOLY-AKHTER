@@ -6,6 +6,33 @@
 - 💬 Ask Me About: HTML · CSS · JavaScript · React · Node.js · MongoDB
 - 📫 Reach Me At:kakolyakhter48@gmail.com
 - ⚡  Fun Fact : I’m a coffee addict who turns caffeine into clean code ☕✨
+  ## 🔥 Highlights
+
+🔭 **Currently Working On:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+➡ Building **zap-shift-client-payment** — a secure client-side payment module
+
+🌱 **Currently Learning:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+💬 **Ask Me About:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+📫 **Reach Me At:**  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakolyakhter48@gmail.com)
+
+⚡ **Fun Fact:**  
+☕✨ I’m a coffee addict who turns **caffeine into clean code** 🚀
+
 
 ## 💫 About Me:
 I’m a frontend developer skilled in HTML, CSS, JavaScript (ES6), React, and DOM manipulation. I also work with Firebase, MongoDB, and authentication systems to build secure, dynamic web applications. Focused on writing clear documentation, clean code, and collaborative debugging.
