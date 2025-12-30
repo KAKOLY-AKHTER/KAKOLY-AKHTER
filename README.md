@@ -1,15 +1,9 @@
 ## Hi , I'm Kakoly Akhter
 ### 💻 Frontend Developer | UI/UX Perfectionist | Bilingual Tech Writer
 ![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/149ef6ed-d753-4cf0-b576-38d42e2abb02)
-- 🔭 Currently Working On: Building zap-shift-client-payment — a secure client-side payment module using React, Firebase, and MongoDB
-- 🌱 Currently Learning: TypeScript · Next.js · Redux
-- 💬 Ask Me About: HTML · CSS · JavaScript · React · Node.js · MongoDB
-- 📫 Reach Me At:kakolyakhter48@gmail.com
-- ⚡  Fun Fact : I’m a coffee addict who turns caffeine into clean code ☕✨
-- 
+
 🔭 **Currently Working On**  
-➡ *zap-shift-client-payment* — একটি নিরাপদ client-side payment module  
-   প্রযুক্তি: React · Firebase · MongoDB  
+➡ *zap-shift-client-payment* — a secure client-side payment module using React, Firebase, and MongoDB
 
 🌱 **Currently Learning**  
 ➡ TypeScript · Next.js · Redux  
@@ -22,13 +16,6 @@
 
 ⚡ **Fun Fact**  
 ➡ ☕ Coffee fuels my code — *caffeine → clean code* ✨
-
-
-📫 **Reach Me At:**  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakolyakhter48@gmail.com)
-
-⚡ **Fun Fact:**  
-☕✨ I’m a coffee addict who turns **caffeine into clean code** 🚀
 
 
 ## 💫 About Me:
