@@ -135,6 +135,10 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KAKOLY-AKHTER&theme=gruvbox" />  
+
 ## 📊 GitHub Stats
 
 <img
