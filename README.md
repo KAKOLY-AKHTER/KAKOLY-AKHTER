@@ -140,25 +140,27 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" 
     alt="GitHub Stats" 
     height="180"
   />
   
   <!-- Contribution Streak -->
   <img 
-    src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=tokyonight&hide_border=true&fire=DD2727" 
+    src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=radical&hide_border=true&fire=DD2727" 
     alt="GitHub Streak" 
     height="180"
   />
   
   <!-- Most Used Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=onedark&hide_border=true&langs_count=8" 
     alt="Top Languages" 
     height="180"
   />
 </p>
+
+
 ---     
 
 [![](https://visitcount.itsvg.in/api?id=KAKOLY-AKHTER&icon=0&color=0)](https://visitcount.itsvg.in)
