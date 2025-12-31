@@ -115,18 +115,22 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/wordpress-2752021-2284838.png" alt="WordPress" width="40" height="40"/>
 </p>
 
+## 🗄️ Databases · 🎨 Design · 🔧 CI/CD & VCS
 
-## *DATABASES / ORM*
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="left">
+  <!-- Databases / ORM -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3628772-3030134.png" alt="Firebase" width="40" height="40"/>
 
-## *DESIGN*
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  <!-- Design -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/canva-3521664-2945096.png" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944911.png" alt="Figma" width="40" height="40"/>
 
-## *CI/CD VCS*
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <!-- CI/CD VCS -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/git-3520917-2944989.png" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
+</p>
+
 
 ## 📊 *GitHub Stats:*
 ![](https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
