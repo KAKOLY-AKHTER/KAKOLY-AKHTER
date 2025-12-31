@@ -135,23 +135,38 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 ---
+
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight&cache_seconds=1800"
+  alt="GitHub Stats"
+  width="100%"
+/>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=tokyonight" />
+<img
+  src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=tokyonight&cache_seconds=1800"
+  alt="GitHub Streak"
+  width="100%"
+/>
 
 ---
 
 ## 🧠 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight&cache_seconds=1800"
+  alt="Top Languages"
+  width="100%"
+/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=KAKOLY-AKHTER&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
