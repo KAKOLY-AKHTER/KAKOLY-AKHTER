@@ -165,25 +165,6 @@
 
 ---     
 
-
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&count_private=true&hide_border=true" />
-
----
-
-## 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&hide_border=true" />
-
----
-
-## 🧠 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&langs_count=6&hide_border=true" />
-
-
 [![](https://visitcount.itsvg.in/api?id=KAKOLY-AKHTER&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
