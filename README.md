@@ -43,19 +43,27 @@
 ## 🌐 *Connect With Me:*
 
 <p align="left">
+  <!-- Facebook -->
   <a href="https://facebook.com/kakoly.akhter.80142" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30"/>
   </a>
+
+  <!-- X (Twitter) -->
   <a href="https://x.com/KAkhter47778" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="X" width="30"/>
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:kakolyakhter48@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kakolyakhter48" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30"/>
   </a>
 </p>
+
 
 
 
