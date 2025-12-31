@@ -1,7 +1,7 @@
-## Hi , I'm Kakoly Akhter
-### 💻 Frontend Developer | UI/UX Perfectionist | Bilingual Tech Writer
+## *Hi , I'm Kakoly Akhter*
+### 💻 *Frontend Developer | UI/UX Perfectionist | Bilingual Tech Writer*
 ![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/149ef6ed-d753-4cf0-b576-38d42e2abb02)
-## ✨ Highlights
+## ✨ *Highlights*
 
 🔭 **Currently Working On**
 - 🚀 *zap-shift-client-payment* — a secure client-side payment module
