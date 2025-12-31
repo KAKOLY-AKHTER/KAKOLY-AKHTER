@@ -42,18 +42,30 @@
 
 ## 🌐 *Connect With Me:*
 
+
 <p align="left">
+  <!-- Facebook -->
   <a href="https://facebook.com/kakoly.akhter.80142" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" height="30" style="fill:#1877F2;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" 
+         alt="Facebook" width="30" height="30" style="fill:#1877F2;"/>
   </a>
+
+  <!-- X (Twitter) -->
   <a href="https://x.com/KAkhter47778" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="30" height="30" style="fill:#1DA1F2;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" 
+         alt="X" width="30" height="30" style="fill:#1DA1F2;"/>
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:kakolyakhter48@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" style="fill:#EA4335;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" 
+         alt="Email" width="30" height="30" style="fill:#EA4335;"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kakolyakhter48" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:#0A66C2;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
+         alt="LinkedIn" width="30" height="30" style="fill:#0A66C2;"/>
   </a>
 </p>
 
