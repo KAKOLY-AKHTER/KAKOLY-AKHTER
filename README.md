@@ -135,12 +135,19 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight)
 
+---
+
 ## 🔥 Contribution Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KAKOLY-AKHTER&theme=tokyonight)
 
+---
+
 ## 🧠 Most Used Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=KAKOLY-AKHTER&icon=0&color=0)](https://visitcount.itsvg.in)
