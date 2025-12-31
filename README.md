@@ -64,8 +64,10 @@
   </a>
 </p>
 
-# 💻 *Tech Stack:*
-## *LANGUAGES*
+# 💻 *Tech Stack*
+
+## 🌐 Languages
+
 <p align="left">
   <!-- HTML5 -->
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="40" height="40"/>
@@ -78,7 +80,8 @@
 </p>
 
 
-## *Hosting/SaaS*
+
+## ☁️ Hosting & SaaS
 
 
 <p align="left">
