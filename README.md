@@ -135,6 +135,9 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 
+## 📊 GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/KAKOLY-AKHTER/KAKOLY-AKHTER/main/metrics.svg)
 
 
 ## 📊 GitHub Stats
