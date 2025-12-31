@@ -5,16 +5,12 @@
 
 🔭 **Currently Working On**  
 - *zap-shift-client-payment* — a secure client-side payment module using React, Firebase, and MongoDB
-
 🌱 **Currently Learning**  
 - TypeScript · Next.js · Redux  
-
 💬 **Ask Me About**  
 - HTML · CSS · JavaScript · React · Node.js · MongoDB  
-
 📫 **Reach Me At**  
 - kakolyakhter48@gmail.com  
-
 ⚡ **Fun Fact**  
 - ☕ Coffee fuels my code — *caffeine → clean code* ✨
 
