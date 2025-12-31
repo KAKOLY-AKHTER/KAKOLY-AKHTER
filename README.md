@@ -1,4 +1,4 @@
-## *Hi , I'm Kakoly Akhter*
+## Hi , I'm Kakoly Akhter
 ### 💻 Frontend Developer | UI/UX Perfectionist | Bilingual Tech Writer
 ![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/149ef6ed-d753-4cf0-b576-38d42e2abb02)
 
@@ -41,7 +41,7 @@
 ## 💫*About Me:*
  ***I’m a frontend developer skilled in HTML, CSS, JavaScript (ES6), React, and DOM manipulation. I also work with Firebase, MongoDB, and authentication systems to build secure, dynamic web applications. Focused on writing clear documentation, clean code, and collaborative debugging.*** 
 
-## 🌐 *Connect With Me:*
+## 🌐 Connect With Me:
 
 <p align="left">
   <!-- Facebook -->
@@ -65,7 +65,7 @@
   </a>
 </p>
 
-# 💻 *Tech Stack*
+# 💻 Tech Stack
 
 ## 🌐 Languages
 
