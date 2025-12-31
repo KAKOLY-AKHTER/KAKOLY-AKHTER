@@ -4,7 +4,7 @@
 ## ✨ *Highlights*
 
 <table>
-  <tr>
+
     <td>
 
 🔭 **Currently Working On**  
@@ -27,12 +27,12 @@
 ⚡ **Fun Fact**  
 - ☕ Coffee fuels my code — *caffeine → clean code* ✨
 
-    </td>
+   
     <td>
 <img src="https://github.com/user-attachments/assets/cb6b9cb7-2943-422a-b6bc-31541e49911e" alt="Highlights Banner" width="350"/>
 
     </td>
-  </tr>
+
 </table>
 
 
