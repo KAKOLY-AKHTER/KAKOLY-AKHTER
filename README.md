@@ -66,20 +66,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 ***GitHub Stats***
 
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
-</p>
 
 ## 🏆 *GitHub Trophies*
 ![](https://github-profile-trophy.vercel.app/?username=KAKOLY-AKHTER&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
