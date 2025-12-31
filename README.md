@@ -96,12 +96,25 @@
 </p>
 
 
-## *FRAMEWORKS, PLATFORMS & LIBRARIES*
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+## ⚛️ Frameworks & Tools
+
+<p align="left">
+  <!-- Node.js -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" width="40" height="40"/>
+
+  <!-- React -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="React" width="40" height="40"/>
+
+  <!-- TailwindCSS -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/tailwindcss-3629320-3030164.png" alt="TailwindCSS" width="40" height="40"/>
+
+  <!-- Bootstrap -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="Bootstrap" width="40" height="40"/>
+
+  <!-- WordPress -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/wordpress-2752021-2284838.png" alt="WordPress" width="40" height="40"/>
+</p>
+
 
 ## *DATABASES / ORM*
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
