@@ -60,7 +60,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kakolyakhter48" target="_blank">
+  <a href="https://www.linkedin.com/in/kakoly-akhter" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30"/>
   </a>
 </p>
