@@ -137,14 +137,14 @@
 
 ## 📊 GitHub Stats 🔥 Contribution & 🧠 Languages
 <p align="center">
-  <!-- First Row: Stats + Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=aura&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=aura&hide_border=true" height="170" />
+  <!-- Stats and Streak Side by Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=KAKOLY-AKHTER&theme=github-dark&hide_border=true&background=0d1117" width="48%" />
   
-  <!-- Second Row: Donut Chart Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=donut&theme=aura&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" height="170" />
+  <!-- Languages in a smaller card -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=5" width="60%" />
 </p>
-
 ---     
 
 [![](https://visitcount.itsvg.in/api?id=KAKOLY-AKHTER&icon=0&color=0)](https://visitcount.itsvg.in)
