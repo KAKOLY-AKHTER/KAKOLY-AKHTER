@@ -62,9 +62,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 *GitHub Stats:*
-![](https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
