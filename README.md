@@ -3,25 +3,37 @@
 ![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/149ef6ed-d753-4cf0-b576-38d42e2abb02)
 ## ✨ *Highlights*
 
-🔭 **Currently Working On**
-- 🚀 *zap-shift-client-payment* — a secure client-side payment module
-    using **React · Firebase · MongoDB**
+<table>
+  <tr>
+    <td>
 
-🌱 **Currently Learning**
+🔭 **Currently Working On**  
+- 🚀 *zap-shift-client-payment* — a secure client-side payment module  
+  using **React · Firebase · MongoDB**
+
+🌱 **Currently Learning**  
 - 📘 TypeScript  
 - ⚡ Next.js  
 - 🔄 Redux  
 
-💬 **Ask Me About**
+💬 **Ask Me About**  
 - 🎨 HTML · 🎨 CSS  
 - ⚙️ JavaScript · ⚛️ React  
 - 🌐 Node.js · 🍃 MongoDB  
 
-📫 **Reach Me At**
+📫 **Reach Me At**  
 - 📧 kakolyakhter48@gmail.com  
 
-⚡ **Fun Fact**
+⚡ **Fun Fact**  
 - ☕ Coffee fuels my code — *caffeine → clean code* ✨
+
+    </td>
+    <td>
+      <img src="(https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)" alt="Highlights Banner" width="350"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 💫*About Me:*
  ***I’m a frontend developer skilled in HTML, CSS, JavaScript (ES6), React, and DOM manipulation. I also work with Firebase, MongoDB, and authentication systems to build secure, dynamic web applications. Focused on writing clear documentation, clean code, and collaborative debugging.*** 
