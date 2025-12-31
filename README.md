@@ -136,23 +136,24 @@
 </p>
 
 ## 📊 GitHub Stats 🔥 Contribution & 🧠 Languages
-
-<p align="center">
-  <!-- Stats Card -->
-  <a href="https://github.com/KAKOLY-AKHTER">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  
-  <!-- Streak Card -->
-  <a href="https://github.com/KAKOLY-AKHTER">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=KAKOLY-AKHTER&theme=tokyonight&hide_border=true&fire=DD2727" />
-  </a>
-  
-  <!-- Compact Languages -->
-  <a href="https://github.com/KAKOLY-AKHTER">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <!-- Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <!-- Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=donut&theme=radical&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Streak -->
+      <img src="https://streak-stats.demolab.com/?user=KAKOLY-AKHTER&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---     
 
