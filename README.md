@@ -139,11 +139,6 @@
 
 ## 📊 GitHub Stats
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KAKOLY-AKHTER&theme=gruvbox" />  
-
 <img
   src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight&cache_seconds=1800"
   alt="GitHub Stats"
@@ -165,7 +160,7 @@
 ## 🧠 Most Used Languages
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight&cache_seconds=60"
   alt="Top Languages"
   width="100%"
 />
