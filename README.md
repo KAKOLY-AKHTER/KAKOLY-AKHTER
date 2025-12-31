@@ -4,7 +4,7 @@
 ## ✨ *Highlights*
 
 <table>
-
+</tr>
     <td>
 
 🔭 **Currently Working On**  
