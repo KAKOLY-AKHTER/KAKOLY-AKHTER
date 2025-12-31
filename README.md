@@ -42,7 +42,6 @@
 
 ## 🌐 *Connect With Me:*
 
-
 <p align="left">
   <!-- Facebook -->
   <a href="https://facebook.com/kakoly.akhter.80142" target="_blank">
