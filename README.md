@@ -80,12 +80,13 @@
 
 ## *Hosting/SaaS*
 
+
 <p align="left">
   <!-- Cloudflare -->
   <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Cloudflare" width="40" height="40"/>
 
   <!-- Netlify -->
-  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="Netlify" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" alt="Netlify" width="40" height="40"/>
 
   <!-- Firebase -->
   <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3628772-3030134.png" alt="Firebase" width="40" height="40"/>
