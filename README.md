@@ -135,38 +135,19 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats, 🔥 Contribution & 🧠 Languages
 
-![Metrics](https://raw.githubusercontent.com/KAKOLY-AKHTER/KAKOLY-AKHTER/main/metrics.svg)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
 
-
-## 📊 GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight&cache_seconds=1800"
-  alt="GitHub Stats"
-  width="100%"
-/>
-
-
-
-## 🔥 Contribution Streak
-
-<img
-  src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=tokyonight&cache_seconds=1800"
-  alt="GitHub Streak"
-  width="100%"
-/>
-
----
-
-## 🧠 Most Used Languages
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight&cache_seconds=60"
-  alt="Top Languages"
-  width="100%"
-/>
 
 ---     
 
