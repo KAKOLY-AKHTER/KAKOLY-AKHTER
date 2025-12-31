@@ -135,9 +135,8 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 ## 📈 GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=dark)](https://git.io/streak-stats)
-### ✍️ *Random Dev Quote*
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KAKOLY-AKHTER&icon=0&color=0)](https://visitcount.itsvg.in)
