@@ -4,7 +4,7 @@
 ## ✨ *Highlights*
 
 <table>
-</tr>
+<tr>
     <td>
 
 🔭 **Currently Working On**  
@@ -33,7 +33,7 @@
 <img src="https://github.com/user-attachments/assets/cb6b9cb7-2943-422a-b6bc-31541e49911e" alt="Highlights Banner" width="350"/>
 
     </td>
-
+</tr>
 </table>
 
 
