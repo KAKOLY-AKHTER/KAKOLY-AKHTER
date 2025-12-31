@@ -136,17 +136,6 @@
 </p>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight" />
-
-## 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=tokyonight" />
-
-## 🧠 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight" />
-
-
-
-## 📊 GitHub Stats
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight&cache_seconds=1800"
