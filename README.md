@@ -1,9 +1,6 @@
 ## *Hi , I'm Kakoly Akhter*
 ### 💻 *Frontend Developer | UI/UX Perfectionist | Bilingual Tech Writer*
 ![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/149ef6ed-d753-4cf0-b576-38d42e2abb02)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KAKOLY-AKHTER/KAKOLY-AKHTER/main/assets/profile.gif" alt="Profile Animation"/>
-</p>
 
 ## ✨ *Highlights*
 
@@ -140,22 +137,9 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github-readme-stats.vercel.app/api?username=KakolyAkhter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=KakolyAkhter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/>
-  </a>
-
-  <!-- GitHub Streak -->
-  <a href="https://streak-stats.demolab.com?user=KakolyAkhter&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
-    <img src="https://streak-stats.demolab.com?user=KakolyAkhter&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="160"/>
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KakolyAkhter&layout=compact&theme=tokyonight&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakolyAkhter&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="160"/>
-  </a>
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KakolyAkhter&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KakolyAkhter&theme=tokyonight)
+![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KakolyAkhter&theme=tokyonight)
 
 
 ## 🏆 *GitHub Trophies*
