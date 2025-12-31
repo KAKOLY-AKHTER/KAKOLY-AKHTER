@@ -135,20 +135,13 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KAKOLY-AKHTER&theme=radical" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=radical)
+![](https://streak-stats.demolab.com/?user=KAKOLY-AKHTER&theme=radical)
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KAKOLY-AKHTER&theme=radical" alt="KAKOLY-AKHTER's trophies" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=KAKOLY-AKHTER&theme=radical)
+
 ### ✍️ *Random Dev Quote*
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
