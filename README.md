@@ -135,11 +135,16 @@
 </p>
 
 
-## 📊 *GitHub Stats:*
-![](https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
+<!-- Contributions & overall stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=KakolyAkhter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/>
+
+<!-- Top languages (by repo size) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakolyAkhter&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="160"/>
+
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com?user=KakolyAkhter&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="160"/>
 
 
 ## 🏆 *GitHub Trophies*
