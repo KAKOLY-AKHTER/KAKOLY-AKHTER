@@ -42,20 +42,22 @@
 
 ## 🌐 *Socials:*
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kakoly.akhter.80142) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KAkhter47778) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kakolyakhter48@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kakoly-akhter-27044a392/)
+
 <p align="left">
   <a href="https://facebook.com/kakoly.akhter.80142" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" height="30"/>
   </a>
   <a href="https://x.com/KAkhter47778" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (Twitter)" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="30" height="30"/>
   </a>
   <a href="mailto:kakolyakhter48@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/kakolyakhter48" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
+>
 
 
 # 💻 *Tech Stack:*
