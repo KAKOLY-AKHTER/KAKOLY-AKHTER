@@ -136,24 +136,14 @@
 </p>
 
 ## 📊 GitHub Stats 🔥 Contribution & 🧠 Languages
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <!-- Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td align="center" width="50%">
-      <!-- Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=donut&theme=radical&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- Streak -->
-      <img src="https://streak-stats.demolab.com/?user=KAKOLY-AKHTER&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- First Row: Stats + Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=aura&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=aura&hide_border=true" height="170" />
+  
+  <!-- Second Row: Donut Chart Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=donut&theme=aura&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" height="170" />
+</p>
 
 ---     
 
