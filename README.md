@@ -149,7 +149,7 @@
   
   <!-- Languages -->
   <a href="https://github.com/KAKOLY-AKHTER">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAKOLY-AKHTER&theme=github_dark" />
+    <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAKOLY-AKHTER&theme=github_dark" />
   </a>
 </p>
 
