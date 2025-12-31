@@ -28,6 +28,9 @@
 
 ## 🌐 *Socials:*
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kakoly.akhter.80142) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KAkhter47778) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kakolyakhter48@gmail.com) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # 💻 *Tech Stack:*
 ## *LANGUAGES*
