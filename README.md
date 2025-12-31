@@ -27,7 +27,7 @@
  ***I’m a frontend developer skilled in HTML, CSS, JavaScript (ES6), React, and DOM manipulation. I also work with Firebase, MongoDB, and authentication systems to build secure, dynamic web applications. Focused on writing clear documentation, clean code, and collaborative debugging.*** 
 
 ## 🌐 *Socials:*
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kakoly.akhter.80142) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KAkhter47778) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kakolyakhter48@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kakoly.akhter.80142) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KAkhter47778) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kakolyakhter48@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kakoly-akhter-27044a392/))
 
 
 
