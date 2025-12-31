@@ -135,24 +135,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KAKOLY-AKHTER&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
-<table align="center">
-  <tr>
-    <td><b>📊 Contribution Stats</b></td>
-    <td><b>🔥 Streak</b></td>
-  </tr>
-  <tr>
-    <td>• Public Repos: 4</td>
-    <td>• Current: Starting soon!</td>
-  </tr>
-  <tr>
-    <td>• Languages: HTML, CSS, JS</td>
-    <td>• Longest: Coming soon</td>
-  </tr>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=KAKOLY-AKHTER&theme=dark)](https://git.io/streak-stats)
 ### ✍️ *Random Dev Quote*
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
