@@ -138,13 +138,19 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KakolyAkhter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=KakolyAkhter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=KakolyAkhter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/>
+  </a>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=KakolyAkhter&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="160"/>
+  <a href="https://streak-stats.demolab.com?user=KakolyAkhter&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=KakolyAkhter&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="160"/>
+  </a>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakolyAkhter&layout=compact&theme=tokyonight&langs_count=8" height="160"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KakolyAkhter&layout=compact&theme=tokyonight&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakolyAkhter&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="160"/>
+  </a>
 </p>
 
 
