@@ -134,6 +134,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/git-3520917-2944989.png" alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
+## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=radical)
@@ -141,7 +142,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KAKOLY-AKHTER&theme=radical)
-
 ### ✍️ *Random Dev Quote*
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
