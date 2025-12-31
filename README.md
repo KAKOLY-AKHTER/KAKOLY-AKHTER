@@ -64,15 +64,22 @@
   </a>
 </p>
 
-
-
-
-
 # 💻 *Tech Stack:*
 ## *LANGUAGES*
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+<p align="left">
+  <!-- HTML5 -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="40" height="40"/>
+
+  <!-- CSS3 -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="40" height="40"/>
+
+  <!-- JavaScript -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
+</p>
+
 
 ## *Hosting/SaaS*
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
