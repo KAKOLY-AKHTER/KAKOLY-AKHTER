@@ -135,22 +135,22 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-3521427-2944920.png" alt="GitHub" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats, 🔥 Contribution & 🧠 Languages
+## 📊 GitHub Stats 🔥 Contribution & 🧠 Languages
 
 <p align="center">
-  <!-- Primary Stats -->
+  <!-- Stats Card -->
   <a href="https://github.com/KAKOLY-AKHTER">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=dark&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
   
-  <!-- Streak Stats (Alternative) -->
+  <!-- Streak Card -->
   <a href="https://github.com/KAKOLY-AKHTER">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=KAKOLY-AKHTER&theme=dark&hide_border=true" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=KAKOLY-AKHTER&theme=tokyonight&hide_border=true&fire=DD2727" />
   </a>
   
-  <!-- Languages -->
+  <!-- Compact Languages -->
   <a href="https://github.com/KAKOLY-AKHTER">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAKOLY-AKHTER&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   </a>
 </p>
 
