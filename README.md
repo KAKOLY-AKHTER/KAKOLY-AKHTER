@@ -136,10 +136,11 @@
 </p>
 
 ## 📈 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KakolyAkhter&theme=tokyonight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KakolyAkhter&theme=tokyonight)
-![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KakolyAkhter&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KakolyAkhter&theme=tokyonight" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KakolyAkhter&theme=tokyonight" alt="Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KakolyAkhter&theme=tokyonight" alt="Details" height="180"/>
+</p>
 
 
 ## 🏆 *GitHub Trophies*
