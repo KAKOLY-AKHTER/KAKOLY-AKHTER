@@ -137,39 +137,16 @@
 
 ## 📊 GitHub Stats 🔥 Contribution & 🧠 Languages
 
-  <!-- Primary Stats -->
+<!-- Primary Stats -->
 <p align="center">
   <a href="https://github.com/KAKOLY-AKHTER">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=dark&hide_border=true" />
   </a>
 </p>
 
-<!-- Contribution & Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAKOLY-AKHTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<!-- Most Committed Language -->
-<p align="end">
-  <a href="https://github.com/KAKOLY-AKHTER">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAKOLY-AKHTER&theme=github_dark" />
-  </a>
-</p>
-
- 
-<!-- Primary Stats -->
-<p align="center">
-  <a href="https://github.com/KAKOLY-AKHTER">
-    <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=dark&hide_border=true" />
-  </a>
-</p>
-
 <!-- Streak & Languages Side by Side -->
 <p align="center">
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=dark&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&theme=dark&hide_border=false&layout=compact" />
 </p>
 
 <!-- Most Committed Language -->
