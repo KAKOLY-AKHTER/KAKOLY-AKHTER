@@ -159,6 +159,28 @@
 
 
 
+<!-- Primary Stats (Top Center) -->
+<p align="center">
+  <a href="https://github.com/KAKOLY-AKHTER">
+    <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KAKOLY-AKHTER&show_icons=true&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<!-- Streak & Languages (Second Line Side by Side) -->
+<p align="center">
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=KAKOLY-AKHTER&theme=dark&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKOLY-AKHTER&theme=dark&hide_border=false&layout=compact" />
+</p>
+
+<!-- Most Committed Language (Optional, Centered Below) -->
+<p align="center">
+  <a href="https://github.com/KAKOLY-AKHTER">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAKOLY-AKHTER&theme=github_dark" />
+  </a>
+</p>
+
+
+
 ---     
 
 [![](https://visitcount.itsvg.in/api?id=KAKOLY-AKHTER&icon=0&color=0)](https://visitcount.itsvg.in)
